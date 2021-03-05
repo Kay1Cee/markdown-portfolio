@@ -2,7 +2,7 @@
 
 Below is a _list_ of my **technical skills**:
 
-## Programming
+## Programming languages
 - Python
 - MATLAB
 - C
